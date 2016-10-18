@@ -7593,4 +7593,5 @@
     <string name="show_battery_percentage">Show battery percentage</string>
     <string name="show_battery_percentage_summary">Show battery level percentage inside the status bar</string>
     <string name="superuser_title">Superuser</string>
+    <string name="system_ui_tuner">System UI Tuner</string>
 </resources>
